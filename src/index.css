@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -66,3 +67,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+=======
+li{
+  list-style: none;
+}
+>>>>>>> f25027a42f754d047ad50bf25fd29962648e7e17
